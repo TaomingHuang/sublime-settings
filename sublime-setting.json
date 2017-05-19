@@ -1,17 +1,22 @@
 {
+	"added_words":
+	[
+		"findmin",
+		"Taoming"
+	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"caret_extra_bottom": 1,
-	"caret_extra_top": 1,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
 	"caret_extra_width": 3,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+	"color_scheme": "Packages/Materialize/schemes/Material One Dark.tmTheme",
 	"drag_text": false,
 	"font_options":
 	[
 		"gray_antialias"
 	],
-	"font_size": 16,
+	"font_size": 11,
 	"ignored_packages":
 	[
 	],
@@ -20,8 +25,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"material_theme_accent_lime": true,
 	"material_theme_bold_tab": true,
 	"material_theme_compact_panel": true,
@@ -31,6 +36,6 @@
 	"material_theme_small_tab": true,
 	"overlay_scroll_bars": "enabled",
 	"spell_check": true,
-	"theme": "Material Monokai.sublime-theme",
+	"theme": "Material One Dark.sublime-theme",
 	"word_wrap": true
 }
