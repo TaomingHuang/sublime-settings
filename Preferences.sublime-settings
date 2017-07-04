@@ -37,5 +37,7 @@
 	"overlay_scroll_bars": "enabled",
 	"spell_check": true,
 	"theme": "Material One Dark.sublime-theme",
-	"word_wrap": true
+	"word_wrap": true,
+	"highlight_line": true,
+	"fade_fold_buttons": false
 }
