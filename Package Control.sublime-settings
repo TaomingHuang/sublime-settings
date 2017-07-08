@@ -3,12 +3,18 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"GitGutter"
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Babel",
 		"BracketHighlighter",
-		"Color Highlighter",
 		"Emmet",
+		"Git",
+		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"Materialize",
 		"Minify",
